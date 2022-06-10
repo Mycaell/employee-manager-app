@@ -1,0 +1,22 @@
+.nav-link {
+  cursor: pointer;
+}
+
+.nav-link:hover {
+  font-weight: bold;
+}
+
+.card {
+  border: none;
+  -webkit-box-shadow: 0 1px 2px 0 rgba(0,0,0,.05);
+  box-shadow: 0 1px 2px 0 rgba(0,0,0,.05);
+  margin-bottom: 30px;
+}
+
+.w-80 {
+  width: 80px;
+}
+
+.alert-info {
+  text-align: center;
+}
